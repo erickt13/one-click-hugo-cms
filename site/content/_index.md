@@ -1,6 +1,6 @@
 ---
 title: Hello Juan this is easy!
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: just change the text here!
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
